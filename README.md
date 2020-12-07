@@ -73,3 +73,9 @@ int main() {
 * [ ] Task-4 (In Progress)
 
 ___
+>## __*Log on to the below link to know more information:*__
+[Palindrome] (https://en.wikipedia.org/wiki/Palindrome)
+
+---
+
+# __*Thank you*__
