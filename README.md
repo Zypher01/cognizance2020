@@ -24,3 +24,18 @@ Palindromic sentences consist of a sentence or phrase, for example: Live on time
 ![Sentences_and_phrases](https://contenthub-static.grammarly.com/blog/wp-content/uploads/2015/08/NEVER-ODD-OR-EVEN.jpg)
 
 ---
+>### __*Names*__
+Some given names are palindromes, for example: Hannah, Anna, and Bob.
+<!--images-->
+![Names](https://uselessetymology.files.wordpress.com/2019/10/palindrome-useless-etymology-12.png?w=1088)
+
+---
+
+>### __*Numbers*__
+A palindromic number is a number that remains the same when its digits are reversed.
+
+---
+
+<!--images-->
+![Numbers](https://media.geeksforgeeks.org/wp-content/cdn-uploads/program-to-check-if-a-number-is-palindrome-1024x512.png)
+ ---
