@@ -39,3 +39,30 @@ A palindromic number is a number that remains the same when its digits are rever
 <!--images-->
 ![Numbers](https://media.geeksforgeeks.org/wp-content/cdn-uploads/program-to-check-if-a-number-is-palindrome-1024x512.png)
  ---
+>## __*Program*__
+<!--code blocks-->
+``` #c
+#include <stdio.h>
+int main() {
+    int n, reversedN = 0, remainder, originalN;
+    printf("Enter an integer: ");
+    scanf("%d", &n);
+    originalN = n;
+
+    // reversed integer is stored in reversedN
+    while (n != 0) {
+        remainder = n % 10;
+        reversedN = reversedN * 10 + remainder;
+        n /= 10;
+    }
+
+    // palindrome if orignalN and reversedN are equal
+    if (originalN == reversedN)
+        printf("%d is a palindrome.", originalN);
+    else
+        printf("%d is not a palindrome.", originalN);
+
+    return 0;
+}
+```
+---
